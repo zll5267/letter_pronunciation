@@ -1,0 +1,30 @@
+{
+  "name": "letter_pronunciation",
+  "version": "1.0.0",
+  "description": "letter pronunciation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zll5267/letter_pronunciation.git"
+  },
+  "keywords": [
+    "bot",
+    "pronunciation",
+    "learning",
+    "js",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zll5267/letter_pronunciation/issues"
+  },
+  "homepage": "https://github.com/zll5267/letter_pronunciation#readme",
+  "dependencies": {
+    "bot-sdk": "^1.2.15",
+    "express": "^4.17.1"
+  }
+}

@@ -1,2 +1,5 @@
 # letter_pronunciation
-baidu bot 
+baidu bot
+
+https://github.com/dueros/bot-sdk-node.js
+
