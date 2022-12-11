@@ -25,6 +25,6 @@
   "homepage": "https://github.com/zll5267/letter_pronunciation#readme",
   "dependencies": {
     "bot-sdk": "^1.2.15",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
